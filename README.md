@@ -6,7 +6,7 @@ The labs will cover the following topics:
 
 | Lab | Topic | Task | Solutions |
 |:---:|:---|:---:|:---:|
-| 0 | Preliminaries: Word Embeddings & Preprocessing, `nn.module` Anatomy, Tensor Operations | [`labs/athnlp_lab_0.ipynb`](https://colab.research.google.com/drive/19N05ElMFKkkYWptXJFxlYU4nl-uMMNkv?usp=sharing) [![Open In Colab](https://colab.research.google.com/drive/19N05ElMFKkkYWptXJFxlYU4nl-uMMNkv?usp=sharing)  | 
+| 0 | Preliminaries: Word Embeddings & Preprocessing, `nn.module` Anatomy, Tensor Operations | [`labs/athnlp_lab_0.ipynb`](https://colab.research.google.com/drive/19N05ElMFKkkYWptXJFxlYU4nl-uMMNkv?usp=sharing) ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19N05ElMFKkkYWptXJFxlYU4nl-uMMNkv?usp=sharing)  | 
 | 1 | Text Classification | [`labs/athnlp_lab_1.ipynb`](https://github.com/athnlp/athnlp-labs-2025/blob/main/labs/Lab_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uConr3TYbgKB6FM2HrmCmHrIBkunZRso?usp=sharing)  | 
 | 2 | Language Modeling from Scratch | [`labs/athnlp_lab_2.ipynb`](https://github.com/athnlp/athnlp-labs-2025/blob/main/labs/Lab_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HESi2IE08AwikME90UMUDQJ8-RTrGqIY?usp=sharing)  | 
 | 3 | Transformers and Attention  | [`labs/athnlp_lab_3.ipynb`](https://github.com/athnlp/athnlp-labs-2025/blob/main/labs/athnlp_lab_3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZdAJ35pfL9YhUhB_ESrbh9xw2qgJPWRT?usp=sharing)  | 
